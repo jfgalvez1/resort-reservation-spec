@@ -1,0 +1,56 @@
+[
+  {
+    "id": "txn-001",
+    "userId": "user-001",
+    "reservationId": "res-001",
+    "type": "deposit",
+    "amount": 250.00,
+    "currency": "USD",
+    "status": "completed",
+    "description": "Deposit for reservation res-001",
+    "paymentMethod": "credit_card",
+    "processedAt": "2024-11-01T10:35:00Z",
+    "createdAt": "2024-11-01T10:30:00Z",
+    "updatedAt": "2024-11-01T10:35:00Z"
+  },
+  {
+    "id": "txn-002",
+    "userId": "user-002",
+    "reservationId": "res-002",
+    "type": "deposit",
+    "amount": 420.00,
+    "currency": "USD",
+    "status": "pending",
+    "description": "Deposit for reservation res-002",
+    "paymentMethod": "credit_card",
+    "createdAt": "2024-11-05T14:20:00Z",
+    "updatedAt": "2024-11-05T14:20:00Z"
+  },
+  {
+    "id": "txn-003",
+    "userId": "user-003",
+    "reservationId": "res-003",
+    "type": "payment",
+    "amount": 600.00,
+    "currency": "USD",
+    "status": "completed",
+    "description": "Final payment for reservation res-003",
+    "paymentMethod": "credit_card",
+    "processedAt": "2024-11-20T08:00:00Z",
+    "createdAt": "2024-11-20T07:45:00Z",
+    "updatedAt": "2024-11-20T08:00:00Z"
+  },
+  {
+    "id": "txn-004",
+    "userId": "user-001",
+    "type": "fee",
+    "amount": 25.00,
+    "currency": "USD",
+    "status": "completed",
+    "description": "Resort fee",
+    "paymentMethod": "credit_card",
+    "processedAt": "2024-11-15T12:00:00Z",
+    "createdAt": "2024-11-15T11:45:00Z",
+    "updatedAt": "2024-11-15T12:00:00Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "res-001",
+    "userId": "user-001",
+    "roomId": "room-101",
+    "checkIn": "2024-12-15",
+    "checkOut": "2024-12-20",
+    "guests": 2,
+    "adults": 2,
+    "children": 0,
+    "status": "confirmed",
+    "totalAmount": 1250.00,
+    "depositAmount": 250.00,
+    "specialRequests": "High floor, ocean view preferred",
+    "createdAt": "2024-11-01T10:30:00Z",
+    "updatedAt": "2024-11-01T10:30:00Z"
+  },
+  {
+    "id": "res-002",
+    "userId": "user-002",
+    "roomId": "room-205",
+    "checkIn": "2024-12-22",
+    "checkOut": "2024-12-28",
+    "guests": 4,
+    "adults": 2,
+    "children": 2,
+    "status": "pending",
+    "totalAmount": 2100.00,
+    "depositAmount": 420.00,
+    "specialRequests": "Family room, connecting rooms if possible",
+    "createdAt": "2024-11-05T14:20:00Z",
+    "updatedAt": "2024-11-05T14:20:00Z"
+  },
+  {
+    "id": "res-003",
+    "userId": "user-003",
+    "roomId": "room-150",
+    "checkIn": "2024-11-20",
+    "checkOut": "2024-11-25",
+    "guests": 1,
+    "adults": 1,
+    "children": 0,
+    "status": "checked-out",
+    "totalAmount": 750.00,
+    "depositAmount": 150.00,
+    "specialRequests": "Business trip, quiet room",
+    "createdAt": "2024-10-15T09:15:00Z",
+    "updatedAt": "2024-11-25T11:00:00Z"
+  }
+]

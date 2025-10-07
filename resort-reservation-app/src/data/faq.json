@@ -1,0 +1,90 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What time is check-in and check-out?",
+    "answer": "Check-in is at 3:00 PM and check-out is at 11:00 AM. Early check-in and late check-out may be available upon request and subject to availability.",
+    "category": "check-in",
+    "tags": ["check-in", "check-out", "timing", "hours"],
+    "helpful": 45,
+    "notHelpful": 2,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-002",
+    "question": "What is your cancellation policy?",
+    "answer": "You can cancel your reservation free of charge up to 24 hours before your check-in date. Cancellations made within 24 hours will incur a $50 cancellation fee.",
+    "category": "cancellation",
+    "tags": ["cancellation", "policy", "fee", "refund"],
+    "helpful": 38,
+    "notHelpful": 1,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-003",
+    "question": "Do you allow pets?",
+    "answer": "Yes, we are pet-friendly! We allow up to 2 pets per room with a maximum weight of 50lbs each. There is a $75 pet fee per stay.",
+    "category": "policies",
+    "tags": ["pets", "animals", "fee", "policy"],
+    "helpful": 29,
+    "notHelpful": 0,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-004",
+    "question": "What amenities are included?",
+    "answer": "All guests have access to our private beach, infinity pool, fitness center, WiFi, and concierge services. Additional amenities include spa services, tennis courts, and multiple dining options.",
+    "category": "amenities",
+    "tags": ["amenities", "included", "services", "facilities"],
+    "helpful": 52,
+    "notHelpful": 3,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-005",
+    "question": "Is parking available?",
+    "answer": "Yes, we offer valet parking for all guests. Self-parking is also available in our secure parking garage. Both options are complimentary.",
+    "category": "general",
+    "tags": ["parking", "valet", "garage", "complimentary"],
+    "helpful": 41,
+    "notHelpful": 1,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-006",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, Google Pay, and bank transfers. Cash and checks are also accepted.",
+    "category": "billing",
+    "tags": ["payment", "credit card", "cash", "methods"],
+    "helpful": 33,
+    "notHelpful": 0,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-007",
+    "question": "Is the resort accessible for guests with disabilities?",
+    "answer": "Yes, we are fully ADA compliant with accessible rooms, elevators, ramps, and facilities. Please inform us of any specific accessibility needs when making your reservation.",
+    "category": "accessibility",
+    "tags": ["accessibility", "ADA", "disabilities", "wheelchair"],
+    "helpful": 18,
+    "notHelpful": 0,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "faq-008",
+    "question": "Do you offer airport transportation?",
+    "answer": "Yes, we provide complimentary airport shuttle service to and from Miami International Airport. The shuttle runs every 30 minutes from 6 AM to 10 PM. Private transportation can also be arranged.",
+    "category": "transportation",
+    "tags": ["airport", "shuttle", "transportation", "complimentary"],
+    "helpful": 27,
+    "notHelpful": 1,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

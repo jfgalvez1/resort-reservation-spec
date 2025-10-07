@@ -1,0 +1,69 @@
+{
+  "id": "resort-001",
+  "name": "Paradise Beach Resort",
+  "description": "Luxury beachfront resort offering world-class amenities and breathtaking ocean views. Experience the perfect blend of relaxation and adventure in our tropical paradise.",
+  "address": {
+    "street": "123 Ocean Drive",
+    "city": "Miami Beach",
+    "state": "FL",
+    "zipCode": "33139",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 25.7907,
+      "longitude": -80.1300
+    }
+  },
+  "contact": {
+    "phone": "+1-305-555-0123",
+    "email": "info@paradisebeachresort.com",
+    "website": "https://www.paradisebeachresort.com"
+  },
+  "amenities": [
+    "Private Beach Access",
+    "Infinity Pool",
+    "Spa & Wellness Center",
+    "Fitness Center",
+    "Tennis Courts",
+    "Golf Course",
+    "Multiple Restaurants",
+    "Beach Bar",
+    "Concierge Service",
+    "Valet Parking",
+    "WiFi",
+    "Room Service",
+    "Laundry Service",
+    "Business Center"
+  ],
+  "policies": {
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "cancellation": {
+      "freeCancellationHours": 24,
+      "cancellationFee": 50.00
+    },
+    "petPolicy": {
+      "allowed": true,
+      "fee": 75.00,
+      "restrictions": "Maximum 2 pets per room, weight limit 50lbs"
+    },
+    "smokingPolicy": {
+      "allowed": false,
+      "areas": ["Designated outdoor areas only"]
+    },
+    "ageRestrictions": {
+      "minimumAge": 18,
+      "adultSupervision": 16
+    }
+  },
+  "images": [
+    "/images/resort-exterior.jpg",
+    "/images/beach-view.jpg",
+    "/images/pool-area.jpg",
+    "/images/spa-facility.jpg",
+    "/images/restaurant.jpg"
+  ],
+  "rating": 4.8,
+  "reviewCount": 1247,
+  "createdAt": "2024-01-01T00:00:00Z",
+  "updatedAt": "2024-11-01T12:00:00Z"
+}
