@@ -38,15 +38,13 @@
 
 ### Testing Strategy
 
-**Decision**: Jest + React Testing Library + Playwright  
+**Decision**: Jest + React Testing Library  
 **Rationale**:
 - Jest: Industry standard for React testing with excellent TypeScript support
 - React Testing Library: Focuses on testing user behavior rather than implementation
-- Playwright: Best-in-class E2E testing with cross-browser support
 - Visual regression testing: Ensures UI consistency across changes
 
 **Alternatives considered**:
-- Cypress: Good E2E testing but Playwright has better performance
 - Vitest: Faster than Jest but less mature ecosystem
 - Testing Library + Jest: Standard combination with excellent documentation
 

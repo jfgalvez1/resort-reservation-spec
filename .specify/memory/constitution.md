@@ -32,6 +32,16 @@ WCAG 2.1 AA compliance required; Semantic HTML structure; Proper ARIA labels and
 - Graceful degradation for IE11 if required
 - Progressive Web App capabilities
 
+### Version Compatibility
+- All dependencies must use compatible versions with each other
+- Lock file (package-lock.json, yarn.lock, pnpm-lock.yaml) must be committed
+- Regular dependency audits and security updates required
+- Major version upgrades must be tested in staging environment
+- Document breaking changes and migration paths
+- Use semantic versioning (semver) for all packages
+- Pin exact versions for critical dependencies
+- Automated compatibility testing in CI/CD pipeline
+
 ## Development Workflow
 
 ### Code Quality

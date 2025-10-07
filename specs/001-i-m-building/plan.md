@@ -37,7 +37,7 @@ Modern resort reservation system with elegant landing page, user dashboard with 
 **Language/Version**: TypeScript 5.0+, JavaScript ES6+  
 **Primary Dependencies**: Next.js 14+, Tailwind CSS 3.4+, React 18+, TypeScript  
 **Storage**: Mock data (JSON files) - no database  
-**Testing**: Jest, React Testing Library, Playwright for E2E  
+**Testing**: Jest, React Testing Library  
 **Target Platform**: Web browsers (desktop/mobile), static hosting  
 **Project Type**: web (static site)  
 **Performance Goals**: <3s load time on 3G, Lighthouse score >90, mobile-first responsive  
@@ -62,7 +62,6 @@ Modern resort reservation system with elegant landing page, user dashboard with 
 ### Test-First (NON-NEGOTIABLE) ✅
 - Jest for unit testing
 - React Testing Library for component tests
-- Playwright for E2E testing
 - Visual regression testing planned
 
 ### Performance Standards ✅
